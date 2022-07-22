@@ -5,6 +5,7 @@ import { useHistory, useParams } from "react-router-dom";
 
 const EditProduct = (props) => {
   let { id } = useParams();
+  id = parseInt(id);
   let history = useHistory();
   const [name, setName] = useState("");
   const [price, setPrice] = useState("");

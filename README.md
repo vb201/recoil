@@ -1,6 +1,4 @@
-[Demo Link](http://merciful-fan.surge.sh/)
-
-![demo](https://res.cloudinary.com/dxrbrkfvv/image/upload/v1594128170/ezgif.com-video-to-gif_lrunc6.gif)
+[Demo Link](https://recoil-pi.vercel.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
